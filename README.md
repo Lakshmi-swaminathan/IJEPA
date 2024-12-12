@@ -1,3 +1,3 @@
-# I-JEPA-Implementation
+# I-JEPA-Implementation & enhancements
 
-trial commit
+
